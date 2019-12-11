@@ -5,4 +5,4 @@ PROJECT SOURCED FROM:
 USAGE:
 
 	source env/bin/activate
-	./main.py training_data_input_file.txt --use-stopwords --dropout
+	main.py training_data_input_file.txt --use-stopwords --dropout
