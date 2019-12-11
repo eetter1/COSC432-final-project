@@ -1,4 +1,4 @@
-PROJECT HOME:
+PROJECT SOURCED FROM:
 
 	https://github.com/pswitl1/cosc432_group_project
 
